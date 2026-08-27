@@ -166,3 +166,7 @@ print(d)
 d.popitem()
 print(d)
 
+
+d.clear()
+print(d)
+
