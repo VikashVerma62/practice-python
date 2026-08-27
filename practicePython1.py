@@ -116,6 +116,9 @@ print(a)
 a.sort(reverse=True)
 print(a)
 
+a.sort(reverse=False)
+a.sort(reverse=True)
+
 
 # methods of tupple
 
