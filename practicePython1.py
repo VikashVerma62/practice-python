@@ -161,6 +161,8 @@ print(d)
 d.pop("rollno")
 print(d)
 
+
+
 d.popitem()
 print(d)
 
